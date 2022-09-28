@@ -1,2 +1,3 @@
-# react_password_generator-main
+# React Password Generator app
+
  
